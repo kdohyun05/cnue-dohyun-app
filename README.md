@@ -17,3 +17,7 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+App 설명:
+
+- 이 예제 앱은 간단한 곱셈/나눗셈 문제 연습용입니다. 앱을 실행하면 3문제가 연속으로 출제되고, 마지막에 각 문제의 정답/오답과 총 맞춘 개수를 보여줍니다.
